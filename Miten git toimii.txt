@@ -1,0 +1,8 @@
+Kun lis‰‰t tiedoston ilmantilanmittaus-slk kansio
+$ git add .
+$ git status (ei ole pakollinen, mutta kannataa katsoa status: vihre‰=toimii punainen= ei toimi)
+$ git commit -m "kommentti"
+$ git push
+
+Kun haluat saada tiedostoja koneelle:
+$ git pull
